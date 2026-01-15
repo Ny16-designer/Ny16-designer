@@ -2,7 +2,7 @@
 
 ## Bem-vindos, bem-vindas e bem-vind... brincadeira, galera 🤭!!
 
-## Coisas que o SENAI tá me obrigando a aprende... quer dizer, tecnologias que estou muuuito empenhada em aprender.
+## Coisas que o SENAI tá me obrigando a aprender... quer dizer, tecnologias que estou muuuito empenhada em aprender.
 
 * Lógica de Programação;
 * Frameworks;
