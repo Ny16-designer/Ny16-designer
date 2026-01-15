@@ -7,3 +7,5 @@
 * Lógica de Programação;
 * Frameworks;
 * Git.
+
+## Plot: só aprendi a calcular quantas vezes eu posso faltar por U.C. 🙃
